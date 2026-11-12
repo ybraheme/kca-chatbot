@@ -1,0 +1,182 @@
+question,answer,outcome,time_s,model
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],answered,0.65,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",answered,0.73,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],answered,0.55,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",answered,0.68,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",answered,1.72,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",answered,0.68,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],answered,2.87,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",answered,1.25,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],answered,0.35,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",answered,0.65,groq/openai/gpt-oss-20b
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],cached,0.02,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],cached,0.02,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",cached,0.02,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",cached,0.02,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],cached,0.02,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",cached,0.19,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],cached,0.02,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],cached,0.02,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",cached,0.06,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],cached,0.02,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],cached,0.0,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",cached,0.0,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",cached,0.0,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],cached,0.0,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+When must I pay my fees?,You must pay your fees by the deadline of **15th September 2026** for Trimester 1. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Can I sit exams if I have a balance?,"No. Students must clear all fee balances to receive an exam card, and if you have a balance you will not be allowed into the exam room. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+How do I register for my units?,Register for your units through the KCA Student Portal. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Where is the finance office?,"The Finance Office is located in the Main Administration Block, Room 12. [SOURCE 1]",cached,0.0,groq/openai/gpt-oss-20b
+How do I get my exam card?,"To obtain your exam card, log into the KCA Student Portal and download it from the **Examinations** tab. Make sure all fee balances are cleared; if the card still isn’t showing after payment, visit the Finance Office for financial clearance. [SOURCE 1]",cached,0.0,groq/openai/gpt-oss-20b
+What happens if I register late?,"Late registration attracts a penalty fee of KES 1,000. [SOURCE 1]",cached,0.01,groq/openai/gpt-oss-20b
+What is the email for the finance office?,The finance office can be reached by email at finance@kcau.ac.ke. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+Why do my units not show on the portal?,"If your units are not appearing on the portal, you should contact ICT support for assistance. [SOURCE 1]",cached,0.0,groq/openai/gpt-oss-20b
+When is the deadline for fee payment?,The deadline for fee payment is 15th September 2026. [SOURCE 1],cached,0.01,groq/openai/gpt-oss-20b
+How do I pay my fees via M-Pesa?,"To pay your fees via M‑Pesa, follow these steps:  
+1. Go to the M‑Pesa menu on your phone.  
+2. Select **Lipa na M‑Pesa**.  
+3. Select **Pay Bill**.  
+4. Enter the KCA Business Number: **555222**.  
+5. Enter your Registration Number as the Account Number.  
+6. Enter the amount and your PIN.  
+7. Confirm the transaction.  
+
+[SOURCE 1]",cached,0.11,groq/openai/gpt-oss-20b
+What is the capital of France?,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.02,
+Who is the president of Kenya?,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.01,
+How do I cook Ugali?,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.02,
+What is the weather today?,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.01,
+Tell me a joke.,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.01,
+What is 2+2?,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.03,
+Who won the 2022 World Cup?,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.01,
+How do I fix my car?,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.03,
+What is the meaning of life?,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.01,
+Write a poem about dogs.,I could not find this in the KCA documents I have. Please contact the responsible office for help.,declined,0.02,

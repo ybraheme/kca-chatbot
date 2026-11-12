@@ -59,7 +59,22 @@ CREATE TABLE IF NOT EXISTS KB_CHANGE_RECORD (
     changed_at      DATETIME DEFAULT CURRENT_TIMESTAMP,
     change_summary  TEXT
 );
+CREATE TABLE IF NOT EXISTS CHAT_SESSION (
+    session_id   TEXT PRIMARY KEY,      -- UUID string
+    title        TEXT NOT NULL,         -- The first question asked
+    created_at   DATETIME DEFAULT CURRENT_TIMESTAMP
+);
 
+CREATE TABLE IF NOT EXISTS CHAT_MESSAGE (
+    message_id   INTEGER PRIMARY KEY AUTOINCREMENT,
+    session_id   TEXT NOT NULL REFERENCES CHAT_SESSION(session_id) ON DELETE CASCADE,
+    role         TEXT NOT NULL CHECK (role IN ('user', 'assistant')),
+    content      TEXT NOT NULL,
+    source_title TEXT,
+    review_date  TEXT,
+    model_used   TEXT,
+    created_at   DATETIME DEFAULT CURRENT_TIMESTAMP
+);
 CREATE INDEX IF NOT EXISTS idx_ql_timestamp   ON QUERY_LOG(timestamp);
 CREATE INDEX IF NOT EXISTS idx_pass_doc       ON PASSAGE(document_id);
 CREATE INDEX IF NOT EXISTS idx_doc_status     ON KNOWLEDGE_DOCUMENT(status);
