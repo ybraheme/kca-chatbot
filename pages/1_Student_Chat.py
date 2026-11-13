@@ -3,6 +3,8 @@ import streamlit as st
 from app import handle_request
 from chatbot import chat_db
 import config
+from chatbot.bootstrap import ensure_db
+ensure_db()
 
 # Initialize state
 if "current_session_id" not in st.session_state:

@@ -8,6 +8,8 @@ import config
 from chatbot.kb_store import add_document, add_from_file, edit_document, retire_document, list_documents
 from chatbot.database import get_connection
 from chatbot.cache import get_cache
+from chatbot.bootstrap import ensure_db
+ensure_db()
 
 # --- Auth ---
 def check_login(username, password):

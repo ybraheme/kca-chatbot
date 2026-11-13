@@ -2,6 +2,13 @@
 import bcrypt
 import config
 from chatbot.database import init_schema, transaction
+"""Local development helper. The app also self-bootstraps on every run."""
+from chatbot.bootstrap import ensure_db
+import config
+
+if __name__ == "__main__":
+    ensure_db()
+    print(f"[init_db] Schema ready at {config.DB_PATH}")
 
 
 def seed_admin():
